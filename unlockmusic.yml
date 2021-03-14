@@ -69,7 +69,7 @@ proxy-groups:
 rules:
  - PROCESS-NAME,cloudmusic.exe,🎸 网易云音乐
  - PROCESS-NAME,com.netease.cloudmusic,🎸 网易云音乐
-  - PROCESS-NAME,com.netease.cloudmusic.lite,🎸 网易云音乐
+ - PROCESS-NAME,com.netease.cloudmusic.lite,🎸 网易云音乐
  # - DOMAIN-SUFFIX,music.163.com,🎸 网易云音乐
  # - DOMAIN-SUFFIX,netease.com,🎸 网易云音乐
  # - DOMAIN-SUFFIX,api.iplay.163.com,🎸 网易云音乐
